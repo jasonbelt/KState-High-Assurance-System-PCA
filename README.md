@@ -2,7 +2,7 @@
 
 **Installation Instructions**
 
-* Step 1: Install OSate2
+* Step 1: Install Osate2
   
   Follow the [download and installation](http://osate.org/download-and-install.html#) 
   instructions from the Osate2 website.  However, rather than installing 
