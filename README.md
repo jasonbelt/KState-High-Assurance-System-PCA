@@ -14,7 +14,7 @@
   Goto ``File >> Import`` and select ``Git >> Projects from Git``.
   
   Choose ``Clone URI`` and paste the following URI into the URI field:
-  ``https://github.com/jasonbelt/KState-High-Assurance-System-PCA.git``
+  ``https://github.com/jasonbelt/has-pca.git``
   
   You can continue clicking the Next button to accept the default import
   options.  Click the Finish button once it is enabled.

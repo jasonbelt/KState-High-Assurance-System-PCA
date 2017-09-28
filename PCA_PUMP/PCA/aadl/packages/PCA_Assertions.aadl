@@ -1,9 +1,0 @@
---PCA_Assertions.aadl
-
-package PCA_Assertions
-  public
---  with BLESS;
-  
-
-
-end PCA_Assertions;
